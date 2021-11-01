@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'www.linkedin.com/in/patrick-b-fuller',
+        linkedin: 'patrick-b-fuller',
 
         github: 'patrickbfuller',
     },
